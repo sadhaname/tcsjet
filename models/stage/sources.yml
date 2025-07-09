@@ -13,5 +13,6 @@ sources:
            freshness:
              warn_after: {count: 1, period: day}
           loaded_at_field: o_orderdate::timestamp
-
+      
+        - name: lineitems
  
